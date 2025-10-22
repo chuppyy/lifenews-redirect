@@ -1,1 +1,1 @@
-export const domain = "https://lifenews.livextop.com";
+export const domain = "https://daily.livextop.com";
